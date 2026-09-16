@@ -120,6 +120,7 @@ The following 15 key expectations were defined and validated (100% Success Rate)
 ├── P2M3_putri_joeliya_DAG_graph.png     # Screenshot of Airflow Graph Execution
 ├── P2M3_putri_joeliya_mongoDB.png       # Screenshot of MongoDB Compass Data Verification
 └── README.md                            # Complete Project Documentation
+
 ## ⏱️ Airflow DAG Configuration
 
 - **DAG Name:** `P2M3_putri-joeliya_DAG`
