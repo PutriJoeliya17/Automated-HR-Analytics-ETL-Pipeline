@@ -110,17 +110,6 @@ The following 15 key expectations were defined and validated (100% Success Rate)
 
 ---
 
-## 📁 Repository Structure
-.
-├── P2M3_putri_joeliya_DAG_graph.py      # Apache Airflow DAG Definition Script
-├── P2M3_putri_joeliya_extract.py        # Kaggle Data Extraction Script
-├── P2M3_putri_joeliya_transform.py      # PySpark Transformation & Processing Script
-├── P2M3_putri_joeliya_load.py           # MongoDB Atlas Loading Script
-├── P2M3_putri_joeliya_GX.ipynb          # EDA & Great Expectations Validation Notebook
-├── P2M3_putri_joeliya_DAG_graph.png     # Screenshot of Airflow Graph Execution
-├── P2M3_putri_joeliya_mongoDB.png       # Screenshot of MongoDB Compass Data Verification
-└── README.md                            # Complete Project Documentation
-
 ## ⏱️ Airflow DAG Configuration
 
 - **DAG Name:** `P2M3_putri-joeliya_DAG`
