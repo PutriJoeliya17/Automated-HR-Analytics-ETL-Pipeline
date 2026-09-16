@@ -38,7 +38,7 @@ Employee attrition poses significant challenges for organization stability and H
 ## 🔄 Pipeline Architecture & Workflow
 
 The entire pipeline is structured as a Directed Acyclic Graph (DAG) in Apache Airflow with linear task dependencies:
-
+```bash
 +------------------+      +---------------------+      +-----------------+
 |  python_extract  | ---> |  python_transform   | ---> |   python_load   |
 +------------------+      +---------------------+      +-----------------+
@@ -46,7 +46,7 @@ The entire pipeline is structured as a Directed Acyclic Graph (DAG) in Apache Ai
  Automated Kaggle           Distributed PySpark         MongoDB Atlas
  Ingestion Script           Cleaning & Feature          Cloud Ingestion
                             Engineering Script          Script
-
+```
 ### Task Breakdown
 
 1. **`python_extract` (`Extract_m1.py`):**
