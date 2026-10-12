@@ -1,5 +1,6 @@
 # Automated Enterprise HR Analytics Data Pipeline (ETL & Data Quality)
-
+dataset link : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data
+PPT Link :
 An end-to-end automated data engineering pipeline built using **Apache Airflow**, **Apache Spark (PySpark)**, **Great Expectations**, and **MongoDB Atlas Cloud Database**. This project ingests, validates, cleanses, transforms, and loads the **IBM HR Analytics Attrition Dataset** to provide structured, enterprise-grade data ready for downstream analytics and machine learning applications.
 
 ---
