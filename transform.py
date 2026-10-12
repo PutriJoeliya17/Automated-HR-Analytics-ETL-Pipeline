@@ -1,10 +1,5 @@
 # '''
 # =================================================
-# Milestone 3
-
-# Nama  : Putri joeliya
-# Batch : CODA-020-RMT
-
 # Program ini dibuat untuk melakukan automatisasi Transform  data dari dataset extract ke Airflow.
 # dengan data set yang di gunakan yaitu IBM HR analytics attrition dataset
 # =================================================
