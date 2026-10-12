@@ -1,10 +1,6 @@
 # '''
 # =================================================
-# Milestone 3
-
-# Nama  : Putri joeliya
-# Batch : CODA-020-RMT
-
+# DAG Code
 # Program ini dibuat untuk melakukan automatisasi DAG di arflow mengguanakan ETL pipeline yang sebelmnya sudah di kerjakan.
 # dengan data set yang di gunakan yaitu IBM HR analytics attrition dataset
 # =================================================
